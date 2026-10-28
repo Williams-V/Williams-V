@@ -114,8 +114,8 @@ Personal portfolio project.
 ## Contact
 
 - Email: vanessaadhiambo04@gmail.com
-- LinkedIn: https://linkedin.com/in/your-linkedin
-- Portfolio: https://yourportfolio.com
+- LinkedIn: www.linkedin.com/in/vanessa-williams-adhiambo-92b74a34a
+- Portfolio: https://veeportfolio-chi.vercel.app
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-FF69B4?style=for-the-badge" />

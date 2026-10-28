@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/GitHub-Williams--V-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-YourName-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/www.linkedin.com/in/vanessa-williams-adhiambo-92b74a34a0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:vanessaadhiambo04@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />

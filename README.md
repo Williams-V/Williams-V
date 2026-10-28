@@ -20,7 +20,7 @@
   <a href="mailto:vanessaadhiambo04@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://veeportfolio-chi.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Website-FF5722?style=for-the-badge" />
   </a>
 </p>
